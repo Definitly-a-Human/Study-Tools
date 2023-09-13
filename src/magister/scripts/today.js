@@ -210,5 +210,4 @@ async function todaySchedule(scheduleWrapper) {
     // Status=3: huiswerk
     // Status=2 Type=2: ingeschreven
     // Status=1 Type=13: standaard
-    // test test is dit hoe dit werkt?
 }
